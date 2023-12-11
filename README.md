@@ -7,7 +7,7 @@ The HealthcareBot is a Python script designed to interact with users, answering 
    - Ask questions or make statements related to the keywords, such as:
      - What is my blood type?
      - Tell me about my medical condition.
-     - When was I admitted to the hospital?
+     - When was my date of admission?
      - Who is my doctor?
      - What is my billing amount?
 
