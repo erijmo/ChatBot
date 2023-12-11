@@ -5,11 +5,11 @@ The HealthcareBot is a Python script designed to interact with users, answering 
 
   **Query Examples:**
    - Ask questions or make statements related to the keywords, such as:
-     - "What is my blood type?"
-     - "Tell me about my medical condition."
-     - "When was I admitted to the hospital?"
-     - "Who is my doctor?"
-     - "What is my billing amount?"
+     - What is my blood type?
+     - Tell me about my medical condition.
+     - When was I admitted to the hospital?
+     - Who is my doctor?
+     - What is my billing amount?
 
    **Exiting the Program:**
    - Enter exit-related keywords ('exit', 'bye', 'quit') to terminate the program.
