@@ -15,7 +15,7 @@ The HealthcareBot is a Python script designed to interact with users, answering 
    - Enter exit-related keywords ('exit', 'bye', 'quit') to terminate the program.
 
 
-**Testing**
+**Testing:**
 
 - The bot recognizes the following keywords
    - Name
