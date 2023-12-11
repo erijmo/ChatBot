@@ -25,9 +25,9 @@ Sara Bates
 Destiny Parks
 Ryan Hayes
 Haley Li
-Setup
-Dependencies:
 
+
+Setup Dependencies:
 Install the required dependencies using the following command:
 pip install pandas python-dotenv
 
