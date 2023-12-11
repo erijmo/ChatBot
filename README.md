@@ -16,7 +16,7 @@ The HealthcareBot is a Python script designed to interact with users, answering 
 
 
 
--The bot recognizes the following keywords
+- The bot recognizes the following keywords
    - Name
    - Age
    - Gender
@@ -33,7 +33,7 @@ The HealthcareBot is a Python script designed to interact with users, answering 
    - Medication
    - Test Results
 
-**-Sample Names for Testing**
+- Sample Names for Testing
    - Paula Knight
    - Sara Bates
    - Destiny Parks
