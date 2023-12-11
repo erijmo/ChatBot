@@ -27,14 +27,6 @@ Ryan Hayes
 Haley Li
 
 
-Setup Dependencies:
-Install the required dependencies using the following command:
-pip install pandas python-dotenv
-
-
-Usage
-
-
 The HealthcareBot initiates interaction by asking for the user's name. It checks if the provided name exists in the dataset and proceeds to assist with queries.
 
 Query Examples:
