@@ -1,4 +1,6 @@
-The HealthcareBot is a Python script designed to interact with users, answering health-related queries based on a dataset. The bot recognizes the following keywords:
+The HealthcareBot is a Python script designed to interact with users, answering health-related queries based on a dataset. 
+
+## The bot recognizes the following keywords:
 
 - **Name**
 - **Age**
