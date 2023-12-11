@@ -16,29 +16,27 @@ The HealthcareBot is a Python script designed to interact with users, answering 
 
 
 
-**The bot recognizes the following keywords**
+-The bot recognizes the following keywords
+   - Name
+   - Age
+   - Gender
+   - Blood Type
+   - Medical Condition
+   - Date of Admission
+   - Doctor
+   - Hospital
+   - Insurance Provider
+   - Billing Amount
+   - Room Number
+   - Admission Type
+   - Discharge Date
+   - Medication
+   - Test Results
 
-- Name
-- Age
-- Gender
-- Blood Type
-- Medical Condition
-- Date of Admission
-- Doctor
-- Hospital
-- Insurance Provider
-- Billing Amount
-- Room Number
-- Admission Type
-- Discharge Date
-- Medication
-- Test Results
-
-**Sample Names for Testing**
-
-- Paula Knight
-- Sara Bates
-- Destiny Parks
-- Ryan Hayes
-- Haley Li
+**-Sample Names for Testing**
+   - Paula Knight
+   - Sara Bates
+   - Destiny Parks
+   - Ryan Hayes
+   - Haley Li
 
